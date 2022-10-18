@@ -2,8 +2,8 @@
 
 ## About Me
 
-### Current Role (June 2022 - present):
-Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a>
+### Current Role:
+Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - present)
 
 ### Former Role(s):
 - Technologist Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)
