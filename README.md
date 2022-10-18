@@ -31,22 +31,10 @@ E-mail: <a href="mailto:jesseoj98@gmail.com" target="_blank" rel="noopener noref
 
 LinkedIn: <a href="https://www.linkedin.com/in/jesseojones" target="_blank" rel="noopener noreferrer">jesseojones</a>
 
-## Hobbies, Fun Facts, & Favorites
+<h2>Hobbies, Fun Facts, & Favorites</h2>
 
-### TV Shows
-- Breaking Bad
-- Better Call Saul
-- The Walking Dead
+<details><summary><h3>TV Shows</h3></summary><ul><li>Breaking Bad</li><li>Better Call Saul</li><li>The Walking Dead</li></ul></details>
 
-### Video Games
-- Pikmin 2 / Zelda: The Wind Waker / Paper Mario: TTYD
-- Dark Souls / Old School Runescape
-- Terraria / Don't Starve Together
-- Braid / The Witness
+<details><summary><h3>Video Games</h3></summary><ul><li>Pikmin 2 / Zelda: The Wind Waker / Paper Mario: TTYD</li><li>Dark Souls / Old School Runescape</li><li>Terraria / Don't Starve Together</li><li>Braid / The Witness</li></ul></details>
 
-### Music
-- <a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/21tTE3qqU8k" target="_blank" rel="noopener noreferrer">Pryda</a>
-- <a href="https://youtu.be/HIfeU-pIEpU" target="_blank" rel="noopener noreferrer">Infected Mushroom</a>
-- <a href="https://youtu.be/fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a>
-- <a href="https://youtu.be/lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://youtu.be/9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a>
-- <a href="https://youtu.be/BdW5McynGh8" target="_blank" rel="noopener noreferrer">deadmau5</a>
+<details><summary><h3>Music</h3></summary><ul><li><a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/21tTE3qqU8k" target="_blank" rel="noopener noreferrer">Pryda</a></li><li><a href="https://youtu.be/HIfeU-pIEpU" target="_blank" rel="noopener noreferrer">Infected Mushroom</a></li><li><a href="https://youtu.be/fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a></li><li><a href="https://youtu.be/lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://youtu.be/9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a></li><li><a href="https://youtu.be/BdW5McynGh8" target="_blank" rel="noopener noreferrer">deadmau5</a></li></ul></details>
