@@ -45,8 +45,8 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseojones" target="_blank" rel=
 - Braid / The Witness
 
 ### Music
-- <a href="https://www.youtube.com/watch?v=gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://www.youtube.com/watch?v=21tTE3qqU8k" target="_blank" rel="noopener noreferrer">Pryda</a>
-- <a href="https://www.youtube.com/watch?v=HIfeU-pIEpU" target="_blank" rel="noopener noreferrer">Infected Mushroom</a>
-- <a href="https://www.youtube.com/watch?v=fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a>
-- <a href="https://www.youtube.com/watch?v=lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://www.youtube.com/watch?v=9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a>
-- <a href="https://www.youtube.com/watch?v=BdW5McynGh8" target="_blank" rel="noopener noreferrer">deadmau5</a>
+- <a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/21tTE3qqU8k" target="_blank" rel="noopener noreferrer">Pryda</a>
+- <a href="https://youtu.be/HIfeU-pIEpU" target="_blank" rel="noopener noreferrer">Infected Mushroom</a>
+- <a href="https://youtu.be/fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a>
+- <a href="https://youtu.be/lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://youtu.be/9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a>
+- <a href="https://youtu.be/BdW5McynGh8" target="_blank" rel="noopener noreferrer">deadmau5</a>
