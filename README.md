@@ -1,6 +1,10 @@
 # Jesse Otto Jones (he/him)
 
+Full-stack software engineer with 2+ years experience in Java, Angular, & MySQL. I've also dabbled lightly in C++, C, & C# in college. Currently working for FIS as a Software Engineer, this GitHub profile documents my self-learning journey.
+
 ## About Me
+
+Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamecube-era video games. EDM, electronic, & house music.
 
 ### Current Role:
 Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - present)
