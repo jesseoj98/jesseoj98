@@ -23,7 +23,7 @@ Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" re
 
 ## Education
 
-<a href=https://www.uww.edu/" target="_blank" rel="noopener noreferrer">University of Wisconsin-Whitewater</a>
+<a href="https://www.uww.edu/" target="_blank" rel="noopener noreferrer">University of Wisconsin-Whitewater</a>
 
 Bachelor of Science, <a href="https://www.uww.edu/cls/departments/computer-science" target="_blank" rel="noopener noreferrer">Computer Science</a> <a href="http://uww-public.courseleaf.com/undergraduate/letters-sciences/computer_science/computer-science_comprehensive/" target="_blank" rel="noopener noreferrer">Comprehensive Emphasis</a>
 
