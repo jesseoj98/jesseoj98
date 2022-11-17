@@ -25,7 +25,7 @@ Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" re
 
 University of Wisconsin-Whitewater
 
-Bachelor of Science, Computer Science <a href="http://uww-public.courseleaf.com/undergraduate/letters-sciences/computer_science/computer-science_comprehensive/" target="_blank" rel="noopener noreferrer">Comprehensive Emphasis</a>
+Bachelor of Science, <a href="https://www.uww.edu/cls/departments/computer-science" target="_blank" rel="noopener noreferrer">Computer Science</a> <a href="http://uww-public.courseleaf.com/undergraduate/letters-sciences/computer_science/computer-science_comprehensive/" target="_blank" rel="noopener noreferrer">Comprehensive Emphasis</a>
 
 <a href="https://meritpages.com/jonesjo17" target="_blank" rel="noopener noreferrer">3.779 GPA, Magna Cum Laude</a>
 
