@@ -10,7 +10,7 @@ Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamec
 Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - present)
 
 ### Former Role(s):
-- Technologist Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)
+- Technologist Engineer I (Associate Development / FIS University Program) @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)
 
 ## Skills
 
