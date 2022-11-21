@@ -1,4 +1,4 @@
-# Jesse Otto Jones (he/him)
+# Jesse Jones (he/him)
 
 Full-stack software engineer with 2+ years experience in Java, Angular, & MySQL. I've also dabbled lightly in C++, C, & C# in college. Currently working for FIS as a Software Engineer, this GitHub profile documents my self-learning journey.
 
