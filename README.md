@@ -34,7 +34,7 @@ Bachelor of Science, <a href="https://www.uww.edu/cls/departments/computer-scien
 
 E-mail: <a href="mailto:jesseoj98@gmail.com" target="_blank" rel="noopener noreferrer">jesseoj98@gmail.com</a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/jesseojones" target="_blank" rel="noopener noreferrer">jesseojones</a>
+LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="noopener noreferrer">jesseoj98</a>
 
 <details><summary><h2>Hobbies, Fun Facts, & Favorites</h2></summary>
 
