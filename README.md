@@ -7,7 +7,7 @@ Full-stack software engineer with 2+ years experience in Java, Angular, & MySQL.
 Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamecube-era video games. EDM, electronic, & house music.
 
 ### Current Role:
-Self-learning (January 2023 - present)
+Self-learning & open to new roles (December 2022 - present)
 
 ### Former Role(s):
 - Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - December 2022)
