@@ -1,15 +1,16 @@
 # Jesse Jones (he/him)
 
-Full-stack software engineer with 2+ years experience in Java, Angular, & MySQL. I've also dabbled lightly in C++, C, & C# in college. Currently open to new opportunities, this GitHub profile documents my self-learning journey.
+Full-stack software engineer with 2+ years experience in the software development industry. Primary skills include the MEAN & Microsoft tech stacks. This GitHub profile documents my self-learning journey outside of work.
 
 ## About Me
 
-Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamecube-era video games. EDM, electronic, & house music.
+Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamecube-era video games. EDM, electronic, & house music. Please check out my <a href="https://jesseoj98.github.io/website/" target="_blank" rel="noopener noreferrer">website</a>.
 
 ### Current Role:
-Self-learning & open to new roles (December 2022 - present)
+DevOps Software Engineer for Advocate Aurora Health via Experis ManpowerGroup (February 2023 - present)
 
 ### Former Role(s):
+- Self-learning & brushed up existing skills (December 2022 - February 2023)
 - Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - December 2022)
 - Technologist Engineer I (Associate Development / FIS University Program) @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)
 
