@@ -1,18 +1,20 @@
 # Jesse Jones (he/him)
 
-Full-stack software engineer with 2+ years experience in the software development industry. Primary skills include the MEAN & Microsoft tech stacks. This GitHub profile documents my self-learning journey outside of work.
+Software engineer (Full-Stack / DevOps) with 2.5+ years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey outside of work.
 
 ## About Me
 
 Born, raised, & currently living in WI. Breaking Bad enthusiast & lover of Gamecube-era video games. EDM, electronic, & house music. Please check out my <a href="https://jesseoj98.github.io/website/" target="_blank" rel="noopener noreferrer">website</a>.
 
 ### Current Role:
-DevOps Software Engineer for Advocate Aurora Health via Experis ManpowerGroup (February 2023 - present)
+DevOps Software Engineer @ Advocate Aurora Health via Experis ManpowerGroup (February 2023 - present)
 
 ### Former Role(s):
-- Self-learning & brushed up existing skills (December 2022 - February 2023)
-- Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - December 2022)
-- Technologist Engineer I (Associate Development / FIS University Program) @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)
+<ul>
+  <li>Self-learning & brushed up existing skills (December 2022 - February 2023)</li>
+  <li>Software Engineer I @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2022 - December 2022)</li>
+  <li>Technologist Engineer I (Associate Development / FIS University Program) @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS</a> (June 2020 - June 2022)</li>
+</ul>
 
 ## Skills
 
@@ -20,7 +22,11 @@ DevOps Software Engineer for Advocate Aurora Health via Experis ManpowerGroup (F
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
 </p>
 
 ## Education
