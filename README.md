@@ -1,6 +1,6 @@
 # Jesse Jones (he/him)
 
-Software engineer (Full-Stack / DevOps) with 2.5+ years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey outside of work.
+Software engineer (Full-Stack / DevOps) with 2.5+ years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey and personal projects outside of work.
 
 ## About Me
 
