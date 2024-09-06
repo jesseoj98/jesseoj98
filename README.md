@@ -1,6 +1,6 @@
 # Jesse Jones (he/him)
 
-Software engineer (Full-Stack / DevOps) with over three years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey and personal projects outside of work (when I have time).
+Software engineer (primarily Full-Stack / DevOps roles) with over three years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey and personal projects outside of work (when I have time).
 
 ## About Me
 
@@ -47,7 +47,7 @@ DevOps Software Engineer @ Advocate Aurora Health via Experis ManpowerGroup (Feb
 
 <a href="https://www.uww.edu/" target="_blank" rel="noopener noreferrer">University of Wisconsin-Whitewater</a>
 
-Bachelor of Science, <a href="https://www.uww.edu/cls/departments/computer-science" target="_blank" rel="noopener noreferrer">Computer Science</a> <a href="http://uww-public.courseleaf.com/undergraduate/letters-sciences/computer_science/computer-science_comprehensive/" target="_blank" rel="noopener noreferrer">Comprehensive Emphasis</a>
+Bachelor of Science in <a href="https://www.uww.edu/cls/departments/computer-science" target="_blank" rel="noopener noreferrer">Computer Science</a> (<a href="http://uww-public.courseleaf.com/undergraduate/letters-sciences/computer_science/computer-science_comprehensive/" target="_blank" rel="noopener noreferrer">Comprehensive Emphasis</a>)
 
 <a href="https://meritpages.com/jonesjo17" target="_blank" rel="noopener noreferrer">3.779 GPA, Magna Cum Laude</a>
 
@@ -59,8 +59,59 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="n
 
 <details><summary><h2>Hobbies, Fun Facts, & Favorites</h2></summary>
 
-<details><summary><h3>TV Shows</h3></summary><ul><li>Breaking Bad</li><li>Better Call Saul</li><li>The Walking Dead</li></ul></details>
+<details>
+  <summary>
+    <h3>TV Shows</h3>
+  </summary>
+  <ul>
+    <li>Breaking Bad</li>
+    <li>Better Call Saul</li>
+    <li>The Walking Dead</li>
+  </ul>
+</details>
 
-<details><summary><h3>Video Games</h3></summary><ul><li><b>GameCube: </b>Pikmin 2 / Zelda: The Wind Waker / Paper Mario: TTYD</li><li><b>MMO's: </b>Dark Souls / Old School Runescape / Elden Ring</li><li><b>Sandbox: </b>Terraria / Don't Starve Together</li><li><b>Puzzle: </b>Braid / The Witness</li></ul></details>
+<details>
+  <summary>
+    <h3>Video Games</h3>
+  </summary>
+  <ul>
+    <li>
+      <b>GameCube: </b>Pikmin 2 / Zelda: The Wind Waker / Paper Mario: TTYD
+    </li>
+    <li>
+      <b>MMOs / RPGs: </b>Dark Souls / Old School Runescape / Elden Ring
+    </li>
+    <li>
+      <b>Sandbox: </b>Terraria / Don't Starve Together
+    </li>
+    <li>
+      <b>Puzzle: </b>Braid / The Witness
+    </li>
+  </ul>
+</details>
 
-<details><summary><h3>Music</h3></summary><ul><li><a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/21tTE3qqU8k" target="_blank" rel="noopener noreferrer">Pryda</a></li><li><a href="https://youtu.be/omQl3GCQaBk" target="_blank" rel="noopener noreferrer">Infected Mushroom</a></li><li><a href="https://youtu.be/fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a></li><li><a href="https://youtu.be/lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://youtu.be/9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a></li><li><a href="https://youtu.be/BdW5McynGh8" target="_blank" rel="noopener noreferrer">deadmau5</a></li><li><a href="https://youtu.be/Esvw3fxlXXE" target="_blank" rel="noopener noreferrer">The Glitch Mob</a></li></ul></details></details>
+<details>
+  <summary>
+    <h3>Music</h3>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/ucFXMVPyeFc" target="_blank" rel="noopener noreferrer">Pryda</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/9Axg_e8astI" target="_blank" rel="noopener noreferrer">Infected Mushroom</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/fY7M3pzXdUo" target="_blank" rel="noopener noreferrer">BICEP</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/lC-0j-5GdjU" target="_blank" rel="noopener noreferrer">Pendulum</a> / <a href="https://youtu.be/9S0okQsJlDs" target="_blank" rel="noopener noreferrer">Knife Party</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/tKi9Z-f6qX4" target="_blank" rel="noopener noreferrer">deadmau5</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/Esvw3fxlXXE" target="_blank" rel="noopener noreferrer">The Glitch Mob</a>
+    </li>
+  </ul>
+</details>
