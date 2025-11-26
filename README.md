@@ -1,10 +1,10 @@
 # Jesse Jones (he/him)
 
-Software engineer (primarily Full-Stack / DevOps roles) with over three years experience in the software development industry. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey and personal projects outside of work (when I have time).
+Software engineer (primarily experience in Full-Stack / DevOps roles) with a few years experience in both the fintech and health software development industries. Primary technology skills include Angular, Java, C#, Spring Boot, NodeJs & .NET. This GitHub profile documents my self-learning journey and personal projects outside of work (when I have time).
 
 ## About Me
 
-Born, raised, & currently living in WI. I love Breaking Bad, Better Call Saul, & the Gamecube. I enjoy progressive house music (mainly Eric Prydz). For more info about me and my career, please check out my <a href="https://jesseoj98.github.io/website/" target="_blank" rel="noopener noreferrer">website</a>.
+Born, raised, & currently living in WI. I'm a big proponent of free & open source (FOSS) software. Check out my <a hred="https://github.com/jesseoj98?tab=stars" target="_blank" rel="noopener noreferrer">stars tab</a> for lists of FOSS programs I've used (some daily!) or acknowledged. I love Breaking Bad, Better Call Saul, & the Gamecube. I enjoy progressive house music (mainly Eric Prydz). For more info about me and my career, please check out my <a href="https://jesseoj98.github.io/website/" target="_blank" rel="noopener noreferrer">website</a>.
 
 ### Current Role:
 DevOps Software Engineer @ Advocate Aurora Health via Experis ManpowerGroup (February 2023 - present)
@@ -16,7 +16,7 @@ DevOps Software Engineer @ Advocate Aurora Health via Experis ManpowerGroup (Feb
   <li>Technologist Engineer I (Associate Development / FIS University Program) @ <a href="https://www.fisglobal.com/en/" target="_blank" rel="noopener noreferrer">FIS Global</a> (June 2020 - June 2022)</li>
 </ul>
 
-## Skills
+## Skills[^1]
 
 ### Frontend
 
@@ -31,6 +31,9 @@ DevOps Software Engineer @ Advocate Aurora Health via Experis ManpowerGroup (Feb
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </p>
@@ -57,7 +60,7 @@ E-mail: <a href="mailto:jesseoj98@gmail.com" target="_blank" rel="noopener noref
 
 LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="noopener noreferrer">jesseoj98</a>
 
-<details><summary><h2>Hobbies, Fun Facts, & Favorites</h2></summary>
+## Some of My Favorite Things
 
 <details>
   <summary>
@@ -67,6 +70,26 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="n
     <li>Breaking Bad</li>
     <li>Better Call Saul</li>
     <li>The Walking Dead</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3>Cartoons</h3>
+  </summary>
+  <ul>
+    <li>Courage the Cowardly Dog</li>
+    <li>Ed, Edd n' Eddy</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3>Movies</h3>
+  </summary>
+  <ul>
+    <li>District 9</li>
+    <li>Indiana Jones</li>
   </ul>
 </details>
 
@@ -87,6 +110,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="n
     <li>
       <b>Puzzle: </b>Braid / The Witness
     </li>
+    <li>
+      <b>Platformers: </b>Super Mario World / Super Meat Boy
+    </li>
   </ul>
 </details>
 
@@ -96,7 +122,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="n
   </summary>
   <ul>
     <li>
-      <a href="https://youtu.be/gt1pKrwxAJU" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/ucFXMVPyeFc" target="_blank" rel="noopener noreferrer">Pryda</a>
+      <a href="https://youtu.be/yFlPDZJhgxc" target="_blank" rel="noopener noreferrer">Eric Prydz</a> / <a href="https://youtu.be/ucFXMVPyeFc" target="_blank" rel="noopener noreferrer">Pryda</a> / <a href="https://youtu.be/m-Y6ZGz5PzA">Cirez D</a>
     </li>
     <li>
       <a href="https://youtu.be/9Axg_e8astI" target="_blank" rel="noopener noreferrer">Infected Mushroom</a>
@@ -115,3 +141,5 @@ LinkedIn: <a href="https://www.linkedin.com/in/jesseoj98" target="_blank" rel="n
     </li>
   </ul>
 </details>
+
+[^1]: Skill badge images courtesy of https://github.com/Ileriayo/markdown-badges
